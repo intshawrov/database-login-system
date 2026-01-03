@@ -1,20 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>database-login</title>
-      <link rel="stylesheet" href="style.css">
-</head>
+<?php include("parts/header.php"); ?>
 
-<div class="container">
-      <div class="form">
-            <button class="btn" id="login">Login</button>
-            <button id="register">Register</button>
+      <div class="main-area">
+            <div class="container py-5">
+                  <h1 class="display-5 fw-bold">Hello, world!</h1>
+                  <p class="col-md-8 fs-5">This is a Bootstrap starter template.</p>
+            </div>
       </div>
-</div>
 
-<body>
-      
-</body>
-</html>
+<?php include("parts/footer.php"); ?>

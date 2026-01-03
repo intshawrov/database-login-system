@@ -8,7 +8,14 @@
 </head>
 <body>
 
-
+<div class="container">
+      <div class="form-container">
+            <div class="form-toggle">
+                  <button id="login" class="active">Login</button>
+                  <button id="register">Register</button>
+            </div>
+      </div>
+</div>
       
 </body>
 </html>
